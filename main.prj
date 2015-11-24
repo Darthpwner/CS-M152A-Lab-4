@@ -1,0 +1,8 @@
+verilog work "../../m152a_ddr/state.v"
+verilog work "../../m152a_ddr/score.v"
+verilog work "../../m152a_ddr/random.v"
+verilog work "../../m152a_ddr/display.v"
+verilog work "../../m152a_ddr/collision.v"
+verilog work "../../m152a_ddr/clock.v"
+verilog work "../../m152a_ddr/arrow.v"
+verilog work "../../m152a_ddr/main.v"

@@ -1,0 +1,2 @@
+verilog work "../../m152a_ddr/clock.v"
+verilog work "../../m152a_ddr/clock_tester.v"
